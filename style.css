@@ -1,0 +1,25 @@
+body{
+    background : url("https://www.lacartedumonde.net/wp-content/uploads/2018/10/carte-monde-vierge-frontieres.png.webp") no-repeat;
+    background-size : 100%;
+}
+
+p.Welcome{
+    color: #24b5d2;
+    background-color : #000
+}  
+
+p.Bases{
+    color: #000;
+    font-weight: bold;
+}
+
+h1.Headline{
+    font-size : 100px;
+    padding-left : 30%;
+}
+
+
+a{
+    color : #24b5d2;
+    opacity : 0.7
+}
